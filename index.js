@@ -1,4 +1,8 @@
-/* FSAProject 4 - Sudoku Checker */
+/* 
+    FSAProject 4 - Sudoku Checker 
+      Programmed by: Tim DeHof
+*/
+
 
 function getRow(puzzle, rowIndex) {
   // this function will accept two arguments (puzzle, rowIndex) and returns an
